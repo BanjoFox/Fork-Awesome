@@ -6,3 +6,4 @@ gem 'sass', '~> 3.5'
 gem 'libv8', '~> 3.16.14.19'
 gem 'therubyracer'
 gem 'fontcustom'
+gem `base64`

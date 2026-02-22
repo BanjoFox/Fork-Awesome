@@ -2,7 +2,7 @@
   "plugins": [
     { "convertPathData": false},
     { "removeAttrs": { "attrs": "(glyph-name|unicode)" } },
-    { "removeScriptElement": true },
+    { "removeScripts": true },
     { "removeRasterImages": true },
     { "removeViewBox": false }
   ]

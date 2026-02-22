@@ -6,7 +6,7 @@ module.exports = {
                 attrs: "(glyph-name|unicode)",
             }
         },
-        "removeScriptElement",
+        "removeScripts",
         "removeRasterImages"
     ]
 };
