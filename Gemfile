@@ -5,5 +5,5 @@ gem 'safe_yaml', '~> 1.0.4'
 gem 'sass', '~> 3.5'
 gem 'libv8', '~> 3.16.14.19'
 gem 'therubyracer'
-gem 'fontcustom'
+gem 'fontcustom', '~> 2.0'
 gem `base64`
